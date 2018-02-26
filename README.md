@@ -5,6 +5,6 @@ Il tutto è paradossalmente ancora funzionante, potete eseguire il programmino d
 Ovviamente la maggiorparte dei file generati probabilmente non funzioneranno più, ma ritrovarlo e lanciarlo mi fa nascire un bel sorriso :)
 
 Screnshot d'esempio:
-
+![screen](https://github.com/nicholas0g/BatchCodeGenerator-2005/blob/master/SnapCrab_lord_texter's%20batch%20code%20generator_2018-2-26_16-37-46_No-00.png?raw=true)
 Link al download delle build: (che trovate comunque nella cartella /bin/Release del progetto)
 https://nicholasgiordano.it/index.php/download/batch-code-generator/
