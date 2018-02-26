@@ -1,0 +1,27 @@
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Debug\txt batch code generator.exe
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Debug\txt batch code generator.xml
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Debug\txt batch code generator.pdb
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\bin\Debug\txt batch code generator.exe
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\bin\Debug\txt batch code generator.pdb
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\bin\Debug\txt batch code generator.xml
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Debug\txt_batch_code_generator.Form1.resources
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Debug\txt_batch_code_generator.Resources.resources
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Debug\txt batch code generator.vbproj.GenerateResource.Cache
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Debug\txt_batch_code_generator.Form2.resources
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Debug\txt_batch_code_generator.Form3.resources
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\bin\Release\txt batch code generator.exe
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\bin\Release\txt batch code generator.pdb
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\bin\Release\txt batch code generator.xml
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt_batch_code_generator.Form1.resources
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt_batch_code_generator.Form2.resources
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt_batch_code_generator.Form3.resources
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt_batch_code_generator.Resources.resources
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt batch code generator.vbproj.GenerateResource.Cache
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt batch code generator.exe
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt batch code generator.xml
+C:\Users\lord_texter\Documents\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt batch code generator.pdb
+J:\progetti vbs\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt batch code generator.exe
+J:\progetti vbs\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt batch code generator.xml
+J:\progetti vbs\Visual Studio 2005\Projects\txt batch code generator\txt batch code generator\obj\Release\txt batch code generator.pdb
